@@ -19,7 +19,7 @@ interface Props {
   to: string;
 }
 
-type Link = {
+type Links = {
   uri: string;
   label: string;
 };
